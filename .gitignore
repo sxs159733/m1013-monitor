@@ -1,0 +1,15 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# 运行数据
+logs/
+
+# 第三方 SDK 二进制（自行获取，不分发）
+drfl/
+_shared_extract/
+
+# 敏感 / 临时文件
+GPT.txt
+*.log
