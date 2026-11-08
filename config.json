@@ -1,0 +1,8 @@
+{
+  "robot1_ip": "192.168.137.101",
+  "robot2_ip": "192.168.137.102",
+  "auto_connect": true,
+  "window_sec": 10,
+  "group": "外部六维力/力矩",
+  "dll_dir": ""
+}
